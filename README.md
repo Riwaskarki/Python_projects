@@ -16,11 +16,19 @@ analysis of loan data, investigating trends and key financial metrics.
 
 Libraries and Technologies Used:
 Python: Core programming language for data analysis and visualization.
+
 Jupyter Notebooks: Environment used to document and execute Python code interactively.
+
 Pandas: Data manipulation and analysis library.
+
 Matplotlib & Seaborn: Libraries for creating static, animated, and interactive visualizations.
+
 NumPy: Library for numerical operations.
+
 SciPy: Used for scientific computing and technical calculations.
+
 OpenWeatherMap API: For fetching live weather data.
+
 Excel: Used for data analysis in non-programmatic projects.
+
 JSON: Data format used in some projects for data storage and exchange.
